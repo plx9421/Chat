@@ -1,6 +1,6 @@
 package org.javarush.bigtask.chat.client;
 
-import com.javarush.test.level30.lesson15.big01.ConsoleHelper;
+import org.javarush.bigtask.chat.ConsoleHelper;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;

@@ -1,9 +1,9 @@
 package org.javarush.bigtask.chat.client;
 
-import com.javarush.test.level30.lesson15.big01.Connection;
-import com.javarush.test.level30.lesson15.big01.ConsoleHelper;
-import com.javarush.test.level30.lesson15.big01.Message;
-import com.javarush.test.level30.lesson15.big01.MessageType;
+import org.javarush.bigtask.chat.Connection;
+import org.javarush.bigtask.chat.ConsoleHelper;
+import org.javarush.bigtask.chat.Message;
+import org.javarush.bigtask.chat.MessageType;
 
 import java.io.IOException;
 import java.net.Socket;
